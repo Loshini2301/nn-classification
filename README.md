@@ -16,6 +16,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
+![Screenshot 2024-03-05 210404](https://github.com/Loshini2301/nn-classification/assets/150007305/256bb540-f97b-4101-ba81-6ded7b4af7d5)
+
 
 
 
